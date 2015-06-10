@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+td{
+	
+	padding:10px
+}
+
+
+a.list-group-item.read { 
+	background-color: #F1F2F2; 
+}
